@@ -19,13 +19,13 @@ The dataset used in this repository is MAGIC Gamma Telescope. This dataset is us
 11. **Neural Networks**
 
 ### Contents
-- Each algorithm is implemented in a separate Python script, along with a Jupyter Notebook explaining the algorithm, its implementation, and its performance on the dataset.
-- A comparative analysis is provided in a separate notebook to compare the performance of different algorithms on the same dataset.
+- Each algorithm is implemented in the same Python script, along with a Colab Notebook explaining the algorithm, its implementation, and its performance on the dataset.
+- A comparative analysis is provided in the same notebook to compare the performance of different algorithms on the same dataset.
 - The dataset used is included in the repository or linked to from an external source.
 
 ### Usage
 1. Clone the repository to your local machine.
-2. Open the Jupyter Notebooks to explore the implementations and explanations of each algorithm.
+2. Open the Colab Notebook to explore the implementations and explanations of each algorithm.
 3. Run the scripts to train and evaluate the algorithms on the dataset.
 4. Refer to the comparative analysis notebook for insights into the performance of different algorithms.
 
